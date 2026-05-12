@@ -3,10 +3,10 @@
 
 
 ## 주요 기능
-- **P-V Diagram:** Otto Cycle의 시계 방향(CW) 구현 및 실시간 가시화
+- **P-V Diagram:** Otto Cycle의 구현 및 실시간 가시화
 - **Kinematics:** 크랭크-슬라이더 기구학 계산 ($L$, $L'$)
 - **Interactive Control:** 보어, 간극체적, 크랭크 각도 실시간 조절
-- **4-Stroke Logic:** 흡입-압축-폭발-배기 행정 로직 반영
+- **4-Stroke Logic:** 흡입-압축-폭발-배기 행정 반영
 
 
 
