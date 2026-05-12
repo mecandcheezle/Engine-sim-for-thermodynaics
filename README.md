@@ -11,3 +11,7 @@
  엄밀성따지면 틀린거 알아요ㅜ 그냥 그런갑다 하고 이해하는데 쓰시면 됩니다
 
 ## 실행 방법
+ https://mecandcheezle.github.io/Engine-sim-for-thermodynaics/
+ 링크 클릭 
+
+크롬으로 실행해야되고 아직 모바일 최적화는 안했어요
