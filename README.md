@@ -15,5 +15,3 @@
 ## 실행 방법
  https://mecandcheezle.github.io/Engine-sim-for-thermodynaics/
  링크 클릭 
-
--크롬으로 실행해야되고 아직 모바일 최적화는 진행중!
